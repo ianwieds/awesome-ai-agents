@@ -303,6 +303,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [Stoneforge](https://github.com/stoneforge-ai/stoneforge) - Dashboard and runtime for coordinating coding agents from the web.
 - [Sudarshan](https://github.com/Suraj1235/sudarshan-superharness) - Deterministic, resumable multi-agent harness for coding work.
 - [SVRF](https://github.com/nybarius/SVRF) - Merge queue for swarms of coding agents.
+- [Tale](https://github.com/tale-project/tale) - Run coding agents in persistent sandboxes with task delegation and shared review.
 - [TeDDy](https://github.com/atte500/TeDDy) - Markdown harness that steers coding agents through TDD and vertical slices.
 - [Vicoa](https://github.com/vicoa-ai/vicoa) - Runs coding agents in parallel worktrees from desktop, mobile or a server.
 - [workkit](https://github.com/ITW-Creative-Works/workkit) - Claude Code plugin that runs GitHub Issues as a spec-to-ship agent pipeline.
