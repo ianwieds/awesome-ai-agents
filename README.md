@@ -294,6 +294,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [LoopTroop](https://github.com/looptroop-ai/LoopTroop) - Local orchestrator for coding agents with council planning and retry loops.
 - [Maestro](https://github.com/RunMaestro/Maestro) - Desktop command center for running many agent sessions side by side.
 - [Maestro Orchestrate](https://github.com/josstei/maestro-orchestrate) - Specialist subagents and parallel runs for Claude Code, Codex and Gemini CLI.
+- [MulmoTerminal](https://github.com/receptron/mulmoterminal) - Browser grid of live Claude Code and Codex sessions, one PTY and worktree per cell, backed by tmux.
 - [n3rv](https://github.com/juanmanueldaza/n3rv) - Memory, skills and subagent dispatch for OpenCode agents.
 - [Okto-Pulse](https://github.com/OktoLabsAI/okto-pulse) - Spec-driven workbench with gates and a knowledge graph for coding agents.
 - [OpenSepia](https://github.com/CelaenoIndustry/OpenSepia) - Nine Claude agents that run as an agile team through plan, code, review and deploy.
