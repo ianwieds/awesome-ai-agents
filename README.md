@@ -255,6 +255,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 
 ### App builders
 
+- [AppWizzy](https://appwizzy.com/) - Builds web apps from prompts in dedicated development VMs with templates and Git-backed editing.
 - [Bolt.new](https://bolt.new) - Builds and runs full-stack web apps from a prompt in the browser.
 - [Dyad](https://github.com/dyad-sh/dyad) - Local, open-source app builder that runs on your own machine.
 - [Fragments](https://github.com/e2b-dev/fragments) - E2B template for apps generated entirely by AI.
