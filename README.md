@@ -627,6 +627,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [FastAgent](https://github.com/fastagent-sh/fastagent) - Serves an agent folder as a live service in an app, on GitHub or in chat.
 - [Julep](https://github.com/julep-ai/julep) - Platform for durable agent workflows that resume after crashes.
 - [k8s4claw](https://github.com/Prismer-AI/k8s4claw) - Kubernetes operator that lets agents manage their own infrastructure.
+- [LazyMind](https://github.com/LazyAGI/LazyMind) - Runtime for AI skills with observable workflows, review gates and editable artifacts.
 - [Lobu](https://github.com/lobu-ai/lobu) - Control plane and runtime for agents that share company context.
 - [MagiC](https://github.com/kienbui1995/magic) - Manages and schedules existing agents like a cluster.
 - [Nora](https://github.com/solomon2773/nora) - Self-hosted control plane for running fleets of OpenClaw and Hermes agents.
