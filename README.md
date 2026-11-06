@@ -332,6 +332,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [Airtop](https://airtop.ai) - Cloud browsers that agents can drive across apps and sites.
 - [Amazon Nova Act](https://aws.amazon.com/nova/act/) - AWS service and SDK for agents that carry out actions in web browsers.
 - [Browserbase](https://browserbase.com) - Cloud headless browsers for agents.
+- [Cloudbrowser](https://cloudbrowser.tv) - Private-preview cloud browsers for agents, with isolated Chrome sessions and CDP access.
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open-source crawler that turns websites into clean Markdown for LLMs.
 - [Firecrawl](https://github.com/firecrawl/firecrawl) - Web scraping and crawling API that feeds clean data to agents.
 - [invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP server that browses with a stealth Firefox build.
