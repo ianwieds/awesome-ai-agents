@@ -335,8 +335,8 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open-source crawler that turns websites into clean Markdown for LLMs.
 - [easi.run](https://github.com/julianosig/easi.run) - Self-hosted Chrome for agents via MCP or REST, with live viewing and human takeover.
 - [Firecrawl](https://github.com/firecrawl/firecrawl) - Web scraping and crawling API that feeds clean data to agents.
-- [invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP server that browses with a stealth Firefox build.
 - [invisible-playwright](https://github.com/feder-cr/invisible_playwright) - Stealth Playwright build that avoids bot detection.
+- [invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP server that browses with a stealth Firefox build.
 - [Notte](https://github.com/nottelabs/notte) - Hosted browsers and web automation tooling for agents.
 - [Plasmate](https://github.com/plasmate-labs/plasmate) - Browser engine that turns HTML into a structured model for agents.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Microsoft's MCP server that lets agents drive a browser through Playwright.
