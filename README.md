@@ -207,6 +207,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google's open-source terminal agent for Gemini models.
 - [gptme](https://github.com/gptme/gptme) - Terminal agent with local tools that writes code, runs commands and browses.
 - [Keen Code](https://github.com/mochow13/keen-code) - Go terminal coding agent with MCP, subagents and skills.
+- [Mel – the agentic terminal](https://www.openmel.dev) - Terminal with a team of AI coding agents and configurable approvals, plus a VS Code extension.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Community-built terminal coding agent for local or hosted models.
 - [Nexus-Agent](https://github.com/parkain707/nexus-agent) - Autonomous coding agent with a TUI and a web visualizer.
 - [Octomind](https://github.com/Muvon/octomind) - Model-agnostic coding agent and runtime shipped as one binary.
