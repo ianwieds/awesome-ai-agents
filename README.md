@@ -807,6 +807,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [Duckie AI](https://duckie.ai/) - Customer support agents that resolve tickets.
 - [Intercom Fin](https://fin.ai) - Customer service agent that answers tickets from your help content.
 - [Questflow](https://questflow.ai) - Finance agent that automates accounting and reporting tasks.
+- [Wandero](https://www.wandero.ai/) - Wandero is an AI-native workspace for businesses that sell by quote.
 - [WorkBot](https://workhub.ai/) - Support chatbot that answers customers from your knowledge base.
 
 ## Research and learning
