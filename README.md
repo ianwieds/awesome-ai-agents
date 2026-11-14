@@ -275,6 +275,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [AGX](https://github.com/ramarlina/agx) - Keeps coding agents working as a standing team with objectives and memory.
 - [AionUi](https://github.com/iOfficeAI/AionUi) - Desktop cowork app for OpenClaw, Claude Code, Codex and other CLI agents.
 - [AIWG](https://github.com/jmagly/aiwg) - Specialist agents and structured workflows for AI-assisted software work.
+- [Althar](https://github.com/AltharIDE/althar) - Desktop ADE that delegates coding tasks and sends changes to a separate model for review.
 - [amux](https://github.com/mixpeek/amux) - Control plane for running Codex, Claude Code and Gemini sessions in parallel.
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Orchestrator that enforces declarative rules on teams of coding agents.
 - [Caliber](https://github.com/caliber-ai-org/ai-setup) - Generates and syncs agent config files such as AGENTS.md for each project.
