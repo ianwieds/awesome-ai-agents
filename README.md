@@ -883,10 +883,10 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - Ranked list of agent harnesses, rescored weekly.
 - [OpenClaw Agent Templates](https://github.com/mergisi/awesome-openclaw-agents) - Collection of agent templates for OpenClaw.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
