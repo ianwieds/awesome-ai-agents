@@ -676,6 +676,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [AgentLeak](https://github.com/yagobski/agentleak) - Privacy tests that catch data leaks through agent tool calls and memory.
 - [AgentSkeptic](https://github.com/jwekavanagh/agentskeptic) - Verifies real system state to catch agent workflows that fail quietly.
 - [CIAgent](https://github.com/suniel12/ciagent) - Checks how stable an agent's eval results are across repeated runs.
+- [EvalShift](https://github.com/evalshift/evalshift-cli) - Replays agent test cases on two models to catch regressions before a model swap.
 - [Kiln AI](https://github.com/Kiln-AI/Kiln) - Desktop app for building, evaluating and tuning AI systems.
 - [Open RAG Eval](https://github.com/vectara/open-rag-eval) - Vectara toolkit for scoring RAG answers without golden answers.
 - [Project Telos](https://github.com/HarperZ9/telos) - Shared workspaces for verification and replayable agent receipts.
