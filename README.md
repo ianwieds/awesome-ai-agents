@@ -805,6 +805,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [Cykel](https://www.cykel.ai/) - Digital workers for recruitment, sales and research.
 - [Docket AI](https://docketai.net/) - Sales engineering agent that answers technical questions in B2B deals.
 - [Duckie AI](https://duckie.ai/) - Customer support agents that resolve tickets.
+- [Enhanciar](https://enhanciar.in) - Agent that answers from team tools with sources and drafts follow-ups to approve.
 - [Intercom Fin](https://fin.ai) - Customer service agent that answers tickets from your help content.
 - [Questflow](https://questflow.ai) - Finance agent that automates accounting and reporting tasks.
 - [WorkBot](https://workhub.ai/) - Support chatbot that answers customers from your knowledge base.
