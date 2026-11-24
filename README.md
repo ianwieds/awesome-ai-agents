@@ -484,6 +484,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [Powerdrill AI](https://powerdrill.ai/) - Data analysis agent for files and databases.
 - [text2sql-framework](https://github.com/Text2SqlAgent/text2sql-framework) - Agent that explores a database schema, tests SQL queries and fixes its own mistakes.
 - [WrenAI](https://github.com/Canner/WrenAI) - Text-to-SQL and generative BI with a semantic layer.
+- [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp) - 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
 
 ### Security
 
