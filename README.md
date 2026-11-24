@@ -718,6 +718,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [Cordum](https://github.com/cordum-io/cordum) - Policy layer that requires approval before risky agent tool calls and commands.
 - [Cycles](https://github.com/runcycles/cycles-server) - Self-hosted server that enforces budgets and risk limits on agent actions.
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) - Python library for validating LLM inputs and outputs.
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) - Scans coding agent assets and checks supported tool actions against local policy.
 - [HVTracker](https://github.com/YugantM/hvtracker) - Registry with evidence-based trust scores for agents and MCP servers.
 - [IronClaw](https://github.com/IronSecCo/ironclaw) - Self-hosted agents with strict isolation.
 - [Kontext CLI](https://github.com/kontext-security/kontext) - Finds agents, maps their permissions and enforces limits at runtime.
