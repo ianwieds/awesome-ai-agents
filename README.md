@@ -614,6 +614,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 - [Ailoy](https://github.com/brekkylab/ailoy) - Agent builder that gives every agent its own microVM sandbox.
 - [E2B](https://github.com/e2b-dev/E2B) - Open-source cloud sandboxes where agents run code and tools in isolation.
 - [Greywall](https://github.com/GreyhavenHQ/greywall) - Sandbox for coding agents that blocks everything by default, enforced by the kernel.
+- [Sandscale](https://sandscale.dev/) - Hosted Firecracker microVM sandboxes for coding agents, with per-tool policy and an audit log.
 - [Vetto](https://github.com/shleder/vetto) - Daemon-less OS sandbox for coding agents such as Codex and Claude Code.
 
 ### Runtimes and deployment
