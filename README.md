@@ -238,6 +238,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 
 ### Code review and testing
 
+- [100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill) - Skill kit that plans agent work first, then checks it with tests and formal verification.
 - [agent-qa](https://github.com/vostride/agent-qa) - QA agent that writes and runs tests from plain-language descriptions.
 - [BrowserBash](https://github.com/PramodDutta/browserbash) - CLI and MCP server that runs browser tests written in plain English in Chrome.
 - [CodeRabbit](https://coderabbit.ai/) - AI reviewer that comments on pull requests line by line.
